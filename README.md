@@ -13,13 +13,12 @@ common and effective cyberattack methods.
 - Learn best practices for preventing phishing attacks
 
 ## 📂 Contents
-- [PowerPoint](./Phishing_Awareness_Training_UbaCourage.pptx)
 - [Presentation](https://drive.google.com/drive/folders/1ZLnFdbtLyKxEfojtSls1kha6DhqimEuS?usp=sharing)
 
 ## 📝 Topics Covered
-- What is phishing? (definition and impact)
+- What is phishing?
 - Types of phishing attacks (email phishing, spear phishing, smishing, 
-  vishing, whaling, clone phishing, etc.)
+  vishing, etc.)
 - Common phishing indicators 
 - Real-world examples/case studies
 - Best practices to avoid falling victim
